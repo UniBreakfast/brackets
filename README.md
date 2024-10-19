@@ -1,6 +1,7 @@
 # Brackets
+## Rolling Scopes Task
 
-## Task
+![image](https://github.com/user-attachments/assets/336d9f18-c86e-4a0c-9bc6-9a797dfdd4b4)
 
 Implement function `check(str, bracketsConfig)`, that for given brackets sequence will return `true` if it is correct and `false` otherwise
 
